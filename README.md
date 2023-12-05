@@ -8,5 +8,5 @@
 ## Modeling
 + Plain models: Linear Regression; SARIMAX(Seasonal Autoregressive Integrated Moving Average Exogenous model)
 + Advanced model: Facebook Prophet
-+ Stacked Machine Learning models: ChatGPT/ GoogleBARD(clustering) + XGBoost
++ Stacked Machine Learning models: ChatGPT/ GoogleBARD(text clustering) + XGBoost
 ## For further information, Please check technical documentation and project deck
